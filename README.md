@@ -148,11 +148,12 @@ This project is designed as an **educational DIY smart-lock project**. UID-based
 
 For a real security system, consider adding additional authentication such as a PIN, encrypted authentication, or another secure access method.
 
-## 🎥 YouTube Tutorial
+## 📺 YouTube Demo
 
-📺 **Full Project Tutorial:**
+🎥 Watch the complete project demonstration:
 
-`https://youtube.com/shorts/H5joutr80_g?si=rS4H7rnjZD4t9pon`
+**[▶️ Watch the Project on YouTube](https://youtube.com/shorts/H5joutr80_g?si=rS4H7rnjZD4t9ponUG)**
+
 
 More IoT, robotics, embedded systems, Arduino, ESP32 and DIY electronics projects are available on the channel.
 
