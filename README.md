@@ -151,7 +151,6 @@ For a real security system, consider adding additional authentication such as a 
 ## 🎥 YouTube Tutorial
 
 📺 **Full Project Tutorial:**
-Add your YouTube tutorial link here:
 
 `https://youtube.com/shorts/H5joutr80_g?si=rS4H7rnjZD4t9pon`
 
