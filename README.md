@@ -1,5 +1,7 @@
 # 🔐 RFID Based Smart Lock System
 
+# 🔐 RFID Based Smart Lock System
+
 A simple and secure **RFID-based smart door lock system** built using an **ESP32**, **MFRC522 RFID reader**, and **servo motor**.
 
 The system checks the RFID card UID and automatically unlocks the lock when an authorized card is detected. Unauthorized cards are rejected with a buzzer alert.
@@ -149,6 +151,7 @@ For a real security system, consider adding additional authentication such as a 
 ## 🎥 YouTube Tutorial
 
 📺 **Full Project Tutorial:**
+Add your YouTube tutorial link here:
 
 `https://youtube.com/shorts/H5joutr80_g?si=rS4H7rnjZD4t9pon`
 
