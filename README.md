@@ -150,7 +150,7 @@ For a real security system, consider adding additional authentication such as a 
 
 📺 **Full Project Tutorial:**
 
-`https://youtube.com/shorts/H5joutr80_g?feature=share`
+`https://youtube.com/shorts/H5joutr80_g?si=rS4H7rnjZD4t9pon`
 
 More IoT, robotics, embedded systems, Arduino, ESP32 and DIY electronics projects are available on the channel.
 
